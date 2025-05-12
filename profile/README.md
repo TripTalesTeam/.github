@@ -7,10 +7,10 @@ TripTales is a platform where travelers can share their journeys, connect with f
 ## 🚀 Our Projects
 
 ### TripTales Mobile App
-A Swift-based iOS application that allows users to capture and share their travel experiences with a global community.
+**[triptales-frontend](https://github.com/TripTalesTeam/triptales-frontend)** - A Swift-based iOS application that allows users to capture and share their travel experiences with a global community.
 
 ### TripTales API
-A robust Go-based backend service that powers our mobile application and web platform.
+**[triptales-backend](https://github.com/TripTalesTeam/triptales-backend)** - A robust Go-based backend service that powers our mobile application and web platform.
 
 ## 🛠️ Technologies We Use
 
